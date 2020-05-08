@@ -1,0 +1,26 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1588618949337.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "313193203",
+    "id" : "99EB136A",
+    "lastKnownWriteTime" : 1588771874,
+    "last_content_update" : 1588771874758,
+    "path" : "~/jh_ds/ass3/best.R",
+    "project_path" : "best.R",
+    "properties" : {
+        "cursorPosition" : "21,13",
+        "scrollLine" : "3",
+        "tempName" : "Untitled1"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 3,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
